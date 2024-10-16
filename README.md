@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-### Curso Gerenciando estados com Recoil
+### Studies on Recoil state management on React
+
+Check that nice UI, and then read how to run it locally:
 
 ![Screen Shot 2022-10-01 at 10 48 07](https://user-images.githubusercontent.com/79273930/193412893-f3676aa6-aaf6-41ca-8038-6dabab19ac46.png)
 
